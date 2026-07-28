@@ -73,4 +73,4 @@ agente-ia-challenge/
 
 Aplicación desplegada en una máquina virtual de Oracle Cloud Infrastructure (OCI), accesible mediante IP pública en el puerto 8501.
 
-**URL de demo:** _agregar aquí el enlace público tras el despliegue_
+https://agente-ia-challenge-baamhx9fdxumz9bq237wms.streamlit.app/
